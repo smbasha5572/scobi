@@ -12,5 +12,6 @@ public class CreateLeadsTest extends BaseTest{
 	{
 		Reporter.log("Home Page is Displayed",true);
 		Reporter.log("Leads Page is Displayed",true);
+		Reporter.log("Created Leads Successfully",true);
 	}
 }
